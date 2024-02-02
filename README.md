@@ -1,16 +1,10 @@
-# batics
+# BATICS
 
 Batics Mobile App for classify batik motive
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app made using artificial intelligence to classify image that user give into 10 motive of Batik from Indonesia such as Batik Cendrawasih, Batik Dayak, Batik Ikat Celup, Batik Insang, Batik Kawung, Batik Megamendung, Batik Parang, Batik Poleng, Batik Sekar jagad, and Batik Tambal.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Batics build using Flutter for mobile front-end and Flask Python for back-end API
+![flutter_01](https://github.com/brnsbrn/Batics-Mobile/assets/113587270/1d1f75a6-d50f-421f-a020-797620fcf409)
