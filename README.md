@@ -23,15 +23,15 @@ Batics is developed using Flutter for the mobile front-end and Flask Python for 
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/1d1f75a6-d50f-421f-a020-797620fcf409" width="400" style="margin-bottom: 20px; margin-left: 5px;">
-  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/1a9b8133-97d3-4427-90f3-dae090a7b19a" width="400" style="margin-bottom: 20px; margin-left: 5px;">
+  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/1d1f75a6-d50f-421f-a020-797620fcf409" width="250" style="margin-bottom: 20px; margin-left: 5px;">
+  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/1a9b8133-97d3-4427-90f3-dae090a7b19a" width="250" style="margin-bottom: 20px; margin-left: 5px;">
 
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/b286f7b6-8c53-4e9f-b634-6b15796d4f2c" width="400" style="margin-bottom: 20px; margin-left: 5px;">
-  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/b39e6b74-1c05-46e9-8f42-2b88eba91d1b" width="400" style="margin-bottom: 20px; margin-left: 5px;">
+  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/b286f7b6-8c53-4e9f-b634-6b15796d4f2c" width="250" style="margin-bottom: 20px; margin-left: 5px;">
+  <img src="https://github.com/brnsbrn/Batics-Mobile/assets/113587270/b39e6b74-1c05-46e9-8f42-2b88eba91d1b" width="250" style="margin-bottom: 20px; margin-left: 5px;">
 
 </div>
 
